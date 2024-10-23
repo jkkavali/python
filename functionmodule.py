@@ -1,4 +1,4 @@
 import mymodule
 
-a = mymodule.person1["age"]
+a = mymodule.person1["name"]
 print(a)
